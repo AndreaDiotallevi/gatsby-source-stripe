@@ -423,7 +423,7 @@
       "canIterate": true,
       "methodName": "list",
       "methodArgs": {
-        "expand": ["data.product", "data.tiers"]
+        "expand": ["data.product", "data.tiers", "data.currency_options"]
       }
     },
     {
